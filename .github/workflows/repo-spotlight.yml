@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   spotlight:
-    uses: actionsforge/actions-repo-spotlight/.github/workflows/spotlight.yml@v1
+    uses: actionsforge/actions-repo-spotlight@v1
     with:
       token: ${{ secrets.GH_SPOTLIGHT_TOKEN }}
       limit: 6
