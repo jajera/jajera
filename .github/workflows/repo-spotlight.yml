@@ -9,12 +9,15 @@ permissions:
   contents: read
 
 jobs:
-  spotlight:
-    uses: actionsforge/actions-repo-spotlight@v1
-    with:
-      token: ${{ secrets.GH_SPOTLIGHT_TOKEN }}
-      limit: 6
-      delay: 300
-      min_views: 0
-      include_forks: false
-      include_archived: false
+  repo-spotlight:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run Repository Spotlight
+        uses: actionsforge/actions-repo-spotlight@v1
+        with:
+          token: ${{ secrets.GH_SPOTLIGHT_TOKEN }}
+          limit: 6
+          delay: 300
+          min_views: 0
+          include_forks: false
+          include_archived: false
