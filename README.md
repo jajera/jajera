@@ -83,7 +83,7 @@ I believe in sharing knowledge and building reusable solutions that help others 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jajera&show_icons=true&hide_rank=true&theme=default&count_private=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats-app-blue.vercel.app/api?username=jajera&include_all_orgs=true&show_icons=true&hide_rank=true&theme=blue-dark&count_private=true&hide_border=true)
 
 ---
 
