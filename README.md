@@ -72,6 +72,8 @@ I believe in sharing knowledge and building reusable solutions that help others 
   
   Built IAM Policy Guard, a serverless tool that analyzes IAM policies to flag risky permissions and promote least-privilege.
 
+* Showcased my entry on [The Zacs' Show Talking AWS](https://www.youtube.com/watch?v=KuyyJrA0O1s) podcast, hosted by AWS Heroes [Arshad Zackeriya](https://zack.kiwi) and [Jones Zachariah Noel N](https://zachjonesnoel.com)
+
 ---
 
 ## 🌐 Portfolio & Projects
