@@ -8,6 +8,7 @@ Welcome to my GitHub! I explore infrastructure, automation, and modern cloud-nat
 [![GitHub](https://img.shields.io/badge/github-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jajera)
 [![LinkedIn](https://img.shields.io/badge/linkedin-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-ajera)
 [![DEV.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/jajera)
+[![YouTube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@JohnAjera)
 [![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jajera.github.io/gitprofile/)
 
 ## About Me
@@ -68,7 +69,7 @@ I believe in sharing knowledge and building reusable solutions that help others 
 
 ## 🏆 Hackathon Participation
 
-* **AWS Lambda Hackathon 2025** — Participant ([IAM Policy Guard](https://jajera.github.io/amazon-q-cli-slides))
+* **AWS Lambda Hackathon 2025** — Participant ([IAM Policy Guard](https://jajera.github.io/hackathon-2025-iam-policy-guard))
   
   Built IAM Policy Guard, a serverless tool that analyzes IAM policies to flag risky permissions and promote least-privilege.
 
@@ -80,6 +81,36 @@ I believe in sharing knowledge and building reusable solutions that help others 
 
 * [Portfolio](https://jajera.github.io/gitprofile) - A centralized hub for all my GitHub Pages deployments, Terraform modules & providers, and documentation sites.
 * [Blog on DEV.to](https://dev.to/jajera) - A collection of personal notes and learnings on AWS, Terraform, DevOps, and cloud-native technologies. What started as my own reference material is now formatted and shared publicly, making it accessible and useful for others navigating similar technical challenges.
+
+---
+
+## 🏢 GitHub Organizations
+
+I maintain several GitHub organizations, each serving a specific purpose:
+
+### Infrastructure & DevOps
+
+* [actionsforge](https://github.com/actionsforge) - Published GitHub Actions and reusable workflows for automation, testing, and infrastructure management
+* [cloudbuildlab](https://github.com/cloudbuildlab) - Cloud infrastructure build labs and experiments
+* [k8sforge](https://github.com/k8sforge) - Reusable Helm charts and Kubernetes configurations
+
+### Terraform
+
+* [tfelab](https://github.com/tfelab) - Terraform Enterprise modules
+* [tfstack](https://github.com/tfstack) - Terraform modules and providers
+
+### Serverless & Platform
+
+* [platformfuzz](https://github.com/platformfuzz) - Platform engineering tools, utilities, images, and packages
+* [serverlessia](https://github.com/serverlessia) - Serverless architecture patterns and examples
+
+### Content & Publishing
+
+* [jdevto](https://github.com/jdevto) - DEV.to content, blog resources, and working scenario-based Terraform demos
+
+### Community
+
+* [aws-user-group-nz](https://github.com/aws-user-group-nz) - AWS User Group Aotearoa (New Zealand) community repositories (maintainer)
 
 ---
 
