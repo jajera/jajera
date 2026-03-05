@@ -11,6 +11,14 @@ Welcome to my GitHub! I explore infrastructure, automation, and modern cloud-nat
 [![YouTube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@JohnAjera)
 [![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jajera.github.io/gitprofile/)
 
+## AWS Community Builder
+
+[![AWS Community Builder](Community%20Builder%20LinkedIn%201400px.png)](https://aws.amazon.com/developer/community/community-builders/)
+
+**Focus area:** Network and Content Delivery · #AWSCommunity
+
+Proud to be part of the AWS Community Builder program, sharing knowledge and best practices in cloud networking and content delivery.
+
 ## About Me
 
 I'm a Platform Engineer based in Wellington, New Zealand, passionate about automation, cloud-native technologies, and modern development practices. My journey in IT has evolved from a Windows background, starting with physical servers, then virtualization (Windows and Linux), and now fully embracing cloud-native technologies.
