@@ -88,6 +88,7 @@ I believe in sharing knowledge and building reusable solutions that help others 
 ## 🌐 Portfolio & Projects
 
 * [Portfolio](https://jajera.github.io/gitprofile) - A centralized hub for all my GitHub Pages deployments, Terraform modules & providers, and documentation sites.
+* [Guides](https://jajera.github.io/guides/) - Dated hub for articles and walkthroughs, with short intros that link out to the full GitHub Pages write-ups.
 * [Blog on DEV.to](https://dev.to/jajera) - A collection of personal notes and learnings on AWS, Terraform, DevOps, and cloud-native technologies. What started as my own reference material is now formatted and shared publicly, making it accessible and useful for others navigating similar technical challenges.
 
 ---
