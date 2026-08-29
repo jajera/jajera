@@ -9,7 +9,8 @@ Welcome to my GitHub! I explore infrastructure, automation, and modern cloud-nat
 [![LinkedIn](https://img.shields.io/badge/linkedin-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-ajera)
 [![DEV.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/jajera)
 [![YouTube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@JohnAjera)
-[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jajera.github.io/gitprofile/)
+[![CV](https://img.shields.io/badge/cv-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gitprofile.johna.kiwi/)
+[![Projects](https://img.shields.io/badge/projects-0b6f88?style=for-the-badge&logo=GitHub&logoColor=white)](https://pages.johna.kiwi/)
 
 ## AWS Community Builder
 
@@ -85,10 +86,12 @@ I believe in sharing knowledge and building reusable solutions that help others 
 
 ---
 
-## 🌐 Portfolio & Projects
+## 🌐 Profile & Projects
 
-* [Portfolio](https://jajera.github.io/gitprofile) - A centralized hub for all my GitHub Pages deployments, Terraform modules & providers, and documentation sites.
-* [Guides](https://jajera.github.io/guides/) - Dated hub for articles and walkthroughs, with short intros that link out to the full GitHub Pages write-ups.
+* [CV / profile](https://gitprofile.johna.kiwi/) - Personal CV page rendered from this README.
+* [Projects index](https://pages.johna.kiwi/) - Auto-discovered GitHub Pages sites, Terraform modules, Actions, and DevContainer features.
+* [Guides](https://guides.johna.kiwi/) - Dated hub for articles and walkthroughs, with short intros that link out to the full write-ups.
+* [Home](https://johna.kiwi/) - Curated personal site.
 * [Blog on DEV.to](https://dev.to/jajera) - A collection of personal notes and learnings on AWS, Terraform, DevOps, and cloud-native technologies. What started as my own reference material is now formatted and shared publicly, making it accessible and useful for others navigating similar technical challenges.
 
 ---
